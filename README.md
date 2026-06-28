@@ -42,7 +42,7 @@ El objetivo de este laboratorio es **implementar y verificar una VPN Site-to-Sit
 
 ## 2. Marco Teórico
 
-### 2.1 IKEv2 con VTI — La combinación moderna
+### 2.1 IKEv2 con VTI
 
 Los cuatro laboratorios de VPN Site-to-Site cubiertos en este curso representan una progresión lógica:
 
