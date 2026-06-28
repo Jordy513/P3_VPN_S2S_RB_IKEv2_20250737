@@ -619,7 +619,6 @@ Sin `set ikev2-profile` en el perfil, IOS intentará negociar con IKEv1 aunque e
 * ✅ Reloj del sistema operativo visible evidenciando fecha y hora actual.
 * ✅ Rostro y voz del autor realizando la explicación técnica del laboratorio.
 * ✅ Demostración de los scripts de configuración aplicados en R1 y R2.
-* ✅ Ping extendido para disparar la negociación IKEv2 (`ping 20.25.37.2 source 20.25.37.129`).
 * ✅ Verificación de `show interface Tunnel0` mostrando `up/up` y el perfil IPSec activo.
 * ✅ Verificación de `show crypto ikev2 sa` mostrando estado `READY`.
 * ✅ Verificación de `show ip ospf neighbor` mostrando adyacencia `FULL` sobre `Tunnel0`.
